@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kiddovibez
+- 👋 Hi, I’m SmartGrenedier
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning web development and Python
 - 💞️ I’m looking to collaborate on a project 
